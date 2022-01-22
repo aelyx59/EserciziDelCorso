@@ -1,0 +1,1 @@
+Vittorie: 0, Sconfitte: 1, Pareggi: 1
